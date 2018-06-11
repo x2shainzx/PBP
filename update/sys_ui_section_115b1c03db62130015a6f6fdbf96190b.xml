@@ -2,44 +2,58 @@
 <record_update>
     <sys_ui_section caption="Patch Details" section_id="115b1c03db62130015a6f6fdbf96190b" sys_domain="global" table="x_229194_pbp_patch_requests" version="3" view="Security_Admin">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>u_version</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-11 14:43:10</sys_created_on>
-            <sys_id>a15b1c03db62130015a6f6fdbf96192f</sys_id>
+            <sys_created_on>2018-06-11 15:40:18</sys_created_on>
+            <sys_id>5e682cc7db62130015a6f6fdbf961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Patch Details" display_value="Patch Details" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">115b1c03db62130015a6f6fdbf96190b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-11 14:43:10</sys_updated_on>
+            <sys_updated_on>2018-06-11 15:40:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:40:18</sys_created_on>
+            <sys_id>de682cc7db62130015a6f6fdbf961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Patch Details" display_value="Patch Details" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">115b1c03db62130015a6f6fdbf96190b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:40:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-11 14:43:10</sys_created_on>
-            <sys_id>255b1c03db62130015a6f6fdbf96192f</sys_id>
+            <sys_created_on>2018-06-11 15:40:18</sys_created_on>
+            <sys_id>52682cc7db62130015a6f6fdbf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Patch Details" display_value="Patch Details" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">115b1c03db62130015a6f6fdbf96190b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-11 14:43:10</sys_updated_on>
+            <sys_updated_on>2018-06-11 15:40:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-11 14:43:10</sys_created_on>
-            <sys_id>a55b1c03db62130015a6f6fdbf96192f</sys_id>
+            <sys_created_on>2018-06-11 15:40:18</sys_created_on>
+            <sys_id>d2682cc7db62130015a6f6fdbf961943</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Patch Details" display_value="Patch Details" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">115b1c03db62130015a6f6fdbf96190b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-11 14:43:10</sys_updated_on>
+            <sys_updated_on>2018-06-11 15:40:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

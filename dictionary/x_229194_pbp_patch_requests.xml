@@ -16,5 +16,6 @@
         <element label="Completion Date" max_length="40" name="u_completion" type="glide_date_time"/>
         <element default="true" label="Overdue" max_length="40" name="u_overdue" type="boolean"/>
         <element label="Patch Date" mandatory="true" max_length="40" name="u_patch_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Version" mandatory="true" max_length="40" name="u_version" type="string"/>
     </element>
 </database>
