@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Patch Requests" max_length="40" name="x_229194_pbp_patch_requests" type="collection"/>
+    <element extends="task" label="Patch Requests" max_length="40" name="x_229194_pbp_patch_requests" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="aix" label="Server Group" mandatory="true" max_length="40" name="os" type="string">
+            <choice>
+                <element label="AIX" sequence="0" value="aix"/>
+                <element label="Unix" sequence="1" value="unix"/>
+                <element label="Windows 10" sequence="2" value="w10"/>
+                <element label="Windows 2000" sequence="3" value="w2000"/>
+                <element label="OS X" sequence="4" value="osx"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Patch" mandatory="true" max_length="40" name="patch" type="string"/>
+        <element label="Patch Date" mandatory="true" max_length="40" name="patch_date" type="due_date"/>
+        <element label="Patch" mandatory="true" max_length="40" name="patch_date_2" type="glide_date"/>
+        <element label="Completion Date" max_length="40" name="u_completion" type="glide_date_time"/>
+        <element default="true" label="Overdue" max_length="40" name="u_overdue" type="boolean"/>
+        <element label="Patch Date" mandatory="true" max_length="40" name="u_patch_date" type="glide_date_time"/>
+    </element>
 </database>

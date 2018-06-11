@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_completion" label="Completion Date" language="en" table="x_229194_pbp_patch_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_completion</element>
+            <help/>
+            <hint/>
+            <label>Completion Date</label>
+            <language>en</language>
+            <name>x_229194_pbp_patch_requests</name>
+            <plural>Completion Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>ae766887db62130015a6f6fdbf9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Completion Date</sys_name>
+            <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+            <sys_update_name>sys_documentation_x_229194_pbp_patch_requests_u_completion_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

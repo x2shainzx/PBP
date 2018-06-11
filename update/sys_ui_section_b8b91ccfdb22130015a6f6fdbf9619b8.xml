@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="b8b91ccfdb22130015a6f6fdbf9619b8" sys_domain="global" table="x_229194_pbp_patch_requests" version="3" view="Security_Admin">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>66766887db62130015a6f6fdbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>patch</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>f6766887db62130015a6f6fdbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>7a766887db62130015a6f6fdbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>fa766887db62130015a6f6fdbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>group_list</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>7e766887db62130015a6f6fdbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>fe766887db62130015a6f6fdbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_patch_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:31:51</sys_created_on>
+            <sys_id>72766887db62130015a6f6fdbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="38b91ccfdb22130015a6f6fdbf9619b4">b8b91ccfdb22130015a6f6fdbf9619b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:31:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_229194_pbp_patch_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 14:36:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8b91ccfdb22130015a6f6fdbf9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_229194_pbp_patch_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+            <sys_update_name>sys_ui_section_b8b91ccfdb22130015a6f6fdbf9619b8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 14:36:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Security Admin" name="Security_Admin">38b91ccfdb22130015a6f6fdbf9619b4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
