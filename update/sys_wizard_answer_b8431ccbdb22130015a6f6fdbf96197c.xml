@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Patch Requests</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Patch Requests</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">407df166b92013006517ce7df7ee46cc</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-11 14:07:54</sys_created_on>
+        <sys_id>b8431ccbdb22130015a6f6fdbf96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patch Requests</sys_name>
+        <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+        <sys_update_name>sys_wizard_answer_b8431ccbdb22130015a6f6fdbf96197c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-11 14:07:54</sys_updated_on>
+        <table/>
+        <target_url>x_229194_pbp_patch_requests.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
