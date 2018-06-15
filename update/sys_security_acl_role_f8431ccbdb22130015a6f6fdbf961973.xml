@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-11 14:07:54</sys_created_on>
+        <sys_id>f8431ccbdb22130015a6f6fdbf961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_229194_pbp_patch_requests.x_229194_pbp.patch_requests_user</sys_name>
+        <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+        <sys_security_acl display_value="x_229194_pbp_patch_requests">f0431ccbdb22130015a6f6fdbf961971</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f8431ccbdb22130015a6f6fdbf961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-11 14:07:54</sys_updated_on>
+        <sys_user_role display_value="x_229194_pbp.patch_requests_user" name="x_229194_pbp.patch_requests_user">b043988bdb22130015a6f6fdbf961967</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

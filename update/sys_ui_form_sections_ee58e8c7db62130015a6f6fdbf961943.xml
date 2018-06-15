@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="ee58e8c7db62130015a6f6fdbf961943" sys_domain="global" table="x_229194_pbp_patch_requests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea58e8c7db62130015a6f6fdbf961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229194_pbp_patch_requests" name="x_229194_pbp_patch_requests" sys_domain="global" view="e658e8c7db62130015a6f6fdbf96193f">ee58e8c7db62130015a6f6fdbf961943</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_229194_pbp_patch_requests" sys_domain="global" view="e658e8c7db62130015a6f6fdbf96193f">6658e8c7db62130015a6f6fdbf961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:40:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a658e8c7db62130015a6f6fdbf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229194_pbp_patch_requests" name="x_229194_pbp_patch_requests" sys_domain="global" view="e658e8c7db62130015a6f6fdbf96193f">ee58e8c7db62130015a6f6fdbf961943</sys_ui_form>
+            <sys_ui_section caption="Patch Details" display_value="Patch Details" name="x_229194_pbp_patch_requests" sys_domain="global" view="e658e8c7db62130015a6f6fdbf96193f">2e58e8c7db62130015a6f6fdbf961942</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:40:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa58e8c7db62130015a6f6fdbf961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_229194_pbp_patch_requests" name="x_229194_pbp_patch_requests" sys_domain="global" view="e658e8c7db62130015a6f6fdbf96193f">ee58e8c7db62130015a6f6fdbf961943</sys_ui_form>
+            <sys_ui_section caption="Dependencies" display_value="Dependencies" name="x_229194_pbp_patch_requests" sys_domain="global" view="e658e8c7db62130015a6f6fdbf96193f">e258e8c7db62130015a6f6fdbf961943</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:40:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_229194_pbp_patch_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 15:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee58e8c7db62130015a6f6fdbf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_229194_pbp_patch_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ee58e8c7db62130015a6f6fdbf961943</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 15:40:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Service Manager" name="Service_Manager">e658e8c7db62130015a6f6fdbf96193f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

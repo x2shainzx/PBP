@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Patch Requests">b8431ccbdb22130015a6f6fdbf96195e</application>
+        <filter/>
+        <name>Patch Requests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_229194_pbp.patch_requests_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-11 14:07:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70431ccbdb22130015a6f6fdbf961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Patch Requests</sys_name>
+        <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+        <sys_update_name>sys_ui_module_70431ccbdb22130015a6f6fdbf961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-11 14:07:54</sys_updated_on>
+        <table>x_229194_pbp_patch_requests</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

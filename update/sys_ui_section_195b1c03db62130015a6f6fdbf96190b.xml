@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Dependencies" section_id="195b1c03db62130015a6f6fdbf96190b" sys_domain="global" table="x_229194_pbp_patch_requests" version="3" view="Security_Admin">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dependencies</caption>
+            <header>false</header>
+            <name>x_229194_pbp_patch_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-11 14:43:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>195b1c03db62130015a6f6fdbf96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dependencies</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+            <sys_update_name>sys_ui_section_195b1c03db62130015a6f6fdbf96190b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-11 14:43:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Security Admin" name="Security_Admin">38b91ccfdb22130015a6f6fdbf9619b4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
