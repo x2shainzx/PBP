@@ -17,7 +17,7 @@
         <number_ref display_value="PR">8d431ccbdb22130015a6f6fdbf961988</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">c07df166b92013006517ce7df7ee46cb</super_class>
+        <super_class display_value="Task" name="task">48e3f37714211300651763392430a4cb</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

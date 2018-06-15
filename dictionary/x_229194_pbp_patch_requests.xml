@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Patch Requests" max_length="40" name="x_229194_pbp_patch_requests" sizeclass="1" type="collection">
+    <element extends="task" label="Patch Requests" max_length="40" name="x_229194_pbp_patch_requests" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="aix" label="Server Group" mandatory="true" max_length="40" name="os" type="string">
             <choice>
                 <element label="AIX" sequence="0" value="aix"/>

@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="cmdb_ci_server_hardware" name="cmdb_ci_server_hardware" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">4595184fdb22130015a6f6fdbf96199d</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_server_hardware" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">cd95184fdb22130015a6f6fdbf9619a1</sys_ui_section>
+            <sys_ui_section display_value="">cd95184fdb22130015a6f6fdbf9619a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-06-11 14:18:01</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="cmdb_ci_server_hardware" name="cmdb_ci_server_hardware" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">4595184fdb22130015a6f6fdbf96199d</sys_ui_form>
-            <sys_ui_section caption="Configuration" display_value="Configuration" name="cmdb_ci_server_hardware" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">cd95184fdb22130015a6f6fdbf96199e</sys_ui_section>
+            <sys_ui_section display_value="">cd95184fdb22130015a6f6fdbf96199e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-06-11 14:18:01</sys_updated_on>
         </sys_ui_form_section>
