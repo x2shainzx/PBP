@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>dashboards</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Create or configure a dashboard</h1>  <div class="body taskbody">  <div class="section prereq p"><p class="p"><span class="ph">Responsive dashboards enable all users to share widgets such            as reports and <span class="ph">Performance Analytics</span> visualizations.</span>    <span class="ph">Users with any role can create dashboards.</span>    <span class="ph">Every ServiceNow instance uses one of two dashboard types,                responsive and non-responsive.</span>.</p></div>  <ol class="ol steps" id="pa_dashboards-normal__steps_bbs_dtq_dz"><li class="li step">    <span class="ph cmd">Edit the fields in the responsive or non-responsive dashboard depending on your     set-up.</span>   </li><li class="li step">    <span class="ph cmd">Click <span class="ph uicontrol">Submit</span>.</span>   </li></ol> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Create-Responsive-Dashboards&amp;version&#61;kingston" target="_blank">Create or configure a responsive dashboard</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Create-Non-Responsive-Dashboards&amp;version&#61;kingston" target="_blank">Create or configure a non-responsive dashboard</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:c_CreatingBreakdowns&amp;version&#61;kingston" target="_blank">Performance Analytics breakdowns</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:c_SpecialDashboards&amp;version&#61;kingston" target="_blank">Using breakdowns on dashboards</a></div><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:t_GroupDashboards&amp;version&#61;kingston" target="_blank">Group dashboards</a></div></div></div></div>]]></content>
+        <last_sync>2018-06-12 13:49:05</last_sync>
+        <modifier>normal</modifier>
+        <name>pa_dashboards-normal</name>
+        <page>pa_dashboards</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-06-12 13:49:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f288595fdbaa130015a6f6fdbf961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_dashboards-normal</sys_name>
+        <sys_package display_value="PBP" source="x_229194_pbp">d6c3b042db62130015a6f6fdbf96194f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PBP">d6c3b042db62130015a6f6fdbf96194f</sys_scope>
+        <sys_update_name>sys_embedded_help_content_f288595fdbaa130015a6f6fdbf961990</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-12 13:49:05</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=f288595fdbaa130015a6f6fdbf961990"/>
+</record_update>
